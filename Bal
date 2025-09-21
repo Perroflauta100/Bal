@@ -1,0 +1,134 @@
+#EXTM3U 
+#EXTINF:-1, КАЗСПОРТ
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1, Setanta Ukraine
+https://95-213-224-176.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1,Setanta Sport UA
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/4314/stream.m3u8
+#EXTINF:-1, Setanta Sports+
+https://95-213-224-176.livesports24.online/setantaplusukr.m3u8
+#EXTINF:-1, Setanta Sports+ Украина [FHD]
+https://46-21-250-207.livesports24.online/setantaplusukr.m3u8
+#EXTINF:-1, Setanta Sports 1
+https://95-213-224-176.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1, Setanta Sports 1
+https://46-21-250-207.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1, Setanta Sports 2
+https://95-213-224-176.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1, Setanta Sports 2
+https://46-21-250-207.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1, Sport 1+1 HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1, MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1, Сила
+https://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8
+#EXTINF:-1, Беларусь 5
+https://95-213-224-176.livesports24.online/belarusss5.m3u8
+#EXTINF:-1, беларусь 5
+https://46-21-250-207.livesports24.online/belarusss5.m3u8
+#EXTINF:-1, Футбол 1
+https://95-213-224-176.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1, Футбол 1 ua
+https://46-21-250-207.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1, Футбол 2
+https://95-213-224-176.livesports24.online/fooootball2.m3u8
+#EXTINF:-1, Футбол 2 ua
+https://46-21-250-207.livesports24.online/fooootball2.m3u8
+#EXTINF:-1, ФУТБОЛ 3
+https://95-213-224-176.livesports24.online/football3ua.m3u8
+#EXTINF:-1, Футбол 3 ua
+https://46-21-250-207.livesports24.online/football3ua.m3u8
+
+
+#EXTINF:-1,Футбол 3
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/4204/stream.m3u8
+
+
+#EXTINF:-1, Матч Футбол 1
+https://46-21-250-207.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1, Матч Футбол 2
+https://46-21-250-207.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1, Матч Футбол 3
+https://46-21-250-207.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1, Матч тв
+https://46-21-250-207.livesports24.online/ooomatch.m3u8
+#EXTINF:-1, Матч тв
+http://iptv.ktkru.ru:8003/index.m3u8
+#EXTINF:-1, Матч тв
+http://82.200.80.142:8080/rus2/mono.m3u8
+#EXTINF:-1, МАТЧ игра
+https://46-21-250-207.livesports24.online/migra.m3u8
+#EXTINF:-1, Матч премьер
+http://89.189.191.250/239.211.200.170/stream.m3u8
+#EXTINF:-1, Матч премьер
+https://46-21-250-207.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1, Матч страна
+https://46-21-250-207.livesports24.online/mnashsport.m3u8
+#EXTINF:-1, МАТЧ арена
+https://46-21-250-207.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1, Футбол Ru
+https://46-21-250-207.livesports24.online/footballrus.m3u8
+#EXTINF:-1, Sport 1
+https://46-21-250-207.livesports24.online/sport1ua.m3u8
+#EXTINF:-1,Sport1 HD
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/3930/stream.m3u8
+#EXTINF:-1,Спорт 1
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/143/stream.m3u8
+
+
+#EXTINF:-1,Спорт 2
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/144/stream.m3u8
+
+
+#EXTINF:-1,Sport 1 Baltic
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/3657/stream.m3u8
+
+
+#EXTINF:-1,Sport 2 Baltic
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/3660/stream.m3u8
+
+
+#EXTINF:-1,XSport
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/576/stream.m3u8
+
+
+
+
+#EXTINF:-1,XSport HD
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/3999/stream.m3u8
+#EXTINF:-1,TRACE SPORT STARS HD
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/303/stream.m3u8
+
+#EXTINF:-1,Viasat Sport HD
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/330/stream.m3u8
+
+
+#EXTINF:-1,Eurosport 1
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/216/stream.m3u8
+
+
+#EXTINF:-1,Eurosport 1 HD
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/217/stream.m3u8
+
+
+#EXTINF:-1,Eurosport 2
+http://cdnua03.hls.tv/476/hls/990bc173eef658035630c59742b18cf1/218/stream.m3u8
+#EXTINF:-1, КХЛ HD
+https://46-21-250-207.livesports24.online/khlhdru.m3u8
+#EXTINF:-1, Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1, Extreme Sport
+http://37.17.12.118:8911/play/a00i
+#EXTINF:-1, ULTRA REX
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1, Русский экстрим
+http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
+#EXTINF:-1,Бокс ТВ
+http://5.128.254.228:81/udp/239.1.20.24:1234
+#EXTINF:-1, Матч Боец
+https://46-21-250-207.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1, UFC ТВ Full HD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw5000000/variant.m3u8?version=2
+#EXTINF:-1, UFC ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw2000000/variant.m3u8?version=2
